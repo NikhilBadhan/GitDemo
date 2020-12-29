@@ -1,3 +1,4 @@
 ABCD
 EFG
 HIJ
+update to check conflict- bug2
