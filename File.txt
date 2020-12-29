@@ -1,3 +1,4 @@
+
 By master
 m1-> ABCD
 m1-> EFG
@@ -5,3 +6,14 @@ m1-> HIJ
 m1-> update to check conflict- bug2
 
 m1-> changes for bug 2 branch - klm
+
+
+E1- Changes made in Enhancement branch
+
+E1- ABCD
+E1- EFG
+E1- HIJ
+
+E1- update to check conflict- bug2
+
+E1- changes for bug 2 branch - klm
