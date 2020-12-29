@@ -1,6 +1,7 @@
-ABCD
-EFG
-HIJ
-update to check conflict- bug2
+By master
+m1-> ABCD
+m1-> EFG
+m1-> HIJ
+m1-> update to check conflict- bug2
 
-changes for bug 2 branch - klm
+m1-> changes for bug 2 branch - klm
