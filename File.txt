@@ -5,7 +5,7 @@ m1-> EFG
 m1-> HIJ
 m1-> update to check conflict- bug2
 
-m1-> changes for bug 2 branch - klm
+m1:-> changes for bug 2 branch - klm
 
 
 E1- Changes made in Enhancement branch
